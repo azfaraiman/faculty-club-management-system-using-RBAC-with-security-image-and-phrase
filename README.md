@@ -12,6 +12,17 @@ The UTHM Faculty Club Management System is a web-based application designed to s
 - Role-based access control (RBAC)
 - User-friendly interface for easy navigation
 
+## Screenshot (Student)
+
+<div>
+    <img src="faclub/screenshot11.png" alt="Screenshot 11" style="width: 45%;">
+    <img src="faclub/screenshot12.png" alt="Screenshot 12" style="width: 45%;">
+</div>
+<div>
+    <img src="faclub/screenshot13.png" alt="Screenshot 13" style="width: 45%;">
+    <img src="faclub/screenshot14.png" alt="Screenshot 14" style="width: 45%;">
+</div>
+
 ## Screenshot (Club)
 
 <div>
