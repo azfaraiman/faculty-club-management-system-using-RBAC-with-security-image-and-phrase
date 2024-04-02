@@ -41,8 +41,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
 
-Developed by [Your Name]
+Developed by Wan Azfar Aiman
 
-## Contact
-
-For inquiries or support, please contact [Your Email Address].
