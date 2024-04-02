@@ -14,16 +14,27 @@ The UTHM Faculty Club Management System is a web-based application designed to s
 
 ## Screenshot (Club)
 
-![UTHM Faculty Club Management System Screenshot](faclub/screenshot1.png)
-![UTHM Faculty Club Management System Screenshot](faclub/screenshot2.png)
-![UTHM Faculty Club Management System Screenshot](faclub/screenshot3.png)
-![UTHM Faculty Club Management System Screenshot](faclub/screenshot4.png)
-![UTHM Faculty Club Management System Screenshot](faclub/screenshot5.png)
-![UTHM Faculty Club Management System Screenshot](faclub/screenshot6.png)
-![UTHM Faculty Club Management System Screenshot](faclub/screenshot7.png)
-![UTHM Faculty Club Management System Screenshot](faclub/screenshot8.png)
-![UTHM Faculty Club Management System Screenshot](faclub/screenshot9.png)
-![UTHM Faculty Club Management System Screenshot](faclub/screenshot10.png)
+<div>
+    <img src="faclub/screenshot1.png" alt="Screenshot 1" style="width: 45%;">
+    <img src="faclub/screenshot2.png" alt="Screenshot 2" style="width: 45%;">
+</div>
+<div>
+    <img src="faclub/screenshot3.png" alt="Screenshot 3" style="width: 45%;">
+    <img src="faclub/screenshot4.png" alt="Screenshot 4" style="width: 45%;">
+</div>
+<div>
+    <img src="faclub/screenshot5.png" alt="Screenshot 5" style="width: 45%;">
+    <img src="faclub/screenshot6.png" alt="Screenshot 6" style="width: 45%;">
+</div>
+<div>
+    <img src="faclub/screenshot7.png" alt="Screenshot 7" style="width: 45%;">
+    <img src="faclub/screenshot8.png" alt="Screenshot 8" style="width: 45%;">
+</div>
+<div>
+    <img src="faclub/screenshot9.png" alt="Screenshot 9" style="width: 45%;">
+    <img src="faclub/screenshot10.png" alt="Screenshot 10" style="width: 45%;">
+</div>
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/yourusername/uthm-faculty-club-management-system.git`
