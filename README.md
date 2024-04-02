@@ -12,10 +12,18 @@ The UTHM Faculty Club Management System is a web-based application designed to s
 - Role-based access control (RBAC)
 - User-friendly interface for easy navigation
 
-## Screenshot
+## Screenshot (Club)
 
-![UTHM Faculty Club Management System Screenshot](faclub/screenshot.png)
-
+![UTHM Faculty Club Management System Screenshot](faclub/screenshot1.png)
+![UTHM Faculty Club Management System Screenshot](faclub/screenshot2.png)
+![UTHM Faculty Club Management System Screenshot](faclub/screenshot3.png)
+![UTHM Faculty Club Management System Screenshot](faclub/screenshot4.png)
+![UTHM Faculty Club Management System Screenshot](faclub/screenshot5.png)
+![UTHM Faculty Club Management System Screenshot](faclub/screenshot6.png)
+![UTHM Faculty Club Management System Screenshot](faclub/screenshot7.png)
+![UTHM Faculty Club Management System Screenshot](faclub/screenshot8.png)
+![UTHM Faculty Club Management System Screenshot](faclub/screenshot9.png)
+![UTHM Faculty Club Management System Screenshot](faclub/screenshot10.png)
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/yourusername/uthm-faculty-club-management-system.git`
