@@ -1,8 +1,8 @@
-# UTHM Faculty Club Management System
+# Faculty Club Management System Using RBAC with Security Image and Phrase
 
 ## Description
 
-The UTHM Faculty Club Management System is a web-based application designed to streamline the recruitment processes of faculty clubs at Universiti Tun Hussein Onn Malaysia (UTHM). The system aims to address the challenges faced by faculty clubs in managing their member recruitment, enhance data security, and improve user experience.
+The Faculty Club Management System Using RBAC with Security Image and Phrase is a web-based application designed to streamline the recruitment processes of faculty clubs at university. The system aims to address the challenges faced by faculty clubs in managing their member recruitment, enhance data security, and improve user experience.
 
 ## Features
 
