@@ -14,7 +14,7 @@ The UTHM Faculty Club Management System is a web-based application designed to s
 
 ## Screenshot
 
-![UTHM Faculty Club Management System Screenshot](screenshot.png)
+![UTHM Faculty Club Management System Screenshot](faclub/screenshot.png)
 
 ## Installation
 
