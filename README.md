@@ -72,14 +72,6 @@ The Faculty Club Management System Using RBAC with Security Image and Phrase is 
 2. Log in to access relevant features based on your role.
 3. Navigate through the application to manage club activities, announcements, and member applications.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Credits
 
 Developed by Wan Azfar Aiman
