@@ -59,8 +59,8 @@ The Faculty Club Management System Using RBAC with Security Image and Phrase is 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/uthm-faculty-club-management-system.git`
-2. Navigate to the project directory: `cd uthm-faculty-club-management-system`
+1. Clone the repository: `git clone https://github.com/azfaraiman/faculty-club-management-system-using-RBAC-with-security-image-and-phrase.git`
+2. Navigate to the project directory: `cd faculty-club-management-system-using-RBAC-with-security-image-and-phrase`
 3. Install dependencies: `npm install`
 4. Configure database settings in `config.js`
 5. Start the server: `npm start`
