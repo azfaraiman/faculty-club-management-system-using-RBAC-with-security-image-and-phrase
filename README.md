@@ -12,6 +12,17 @@ The Faculty Club Management System Using RBAC with Security Image and Phrase is 
 - Role-based access control (RBAC)
 - User-friendly interface for easy navigation
 
+## Screenshot (Registration & Login)
+
+<div>
+    <img src="faclub/screenshot15.png" alt="Screenshot 15" style="width: 45%;">
+    <img src="faclub/screenshot16.png" alt="Screenshot 16" style="width: 45%;">
+</div>
+<div>
+    <img src="faclub/screenshot17.png" alt="Screenshot 17" style="width: 45%;">
+    <img src="faclub/screenshot18.png" alt="Screenshot 18" style="width: 45%;">
+</div>
+
 ## Screenshot (Student)
 
 <div>
